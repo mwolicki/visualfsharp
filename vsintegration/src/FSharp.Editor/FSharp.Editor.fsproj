@@ -71,6 +71,7 @@
     </Compile>
     <Compile Include="DocumentHighlightsService.fs">
       <Link>DocumentHighlights\DocumentHighlightsService.fs</Link>
+    </Compile>
     <Compile Include="RenamedSpansTracker.fs">
       <Link>InlineRename\RenamedSpansTracker.fs</Link>
     </Compile>
