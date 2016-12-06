@@ -71,6 +71,11 @@
     </Compile>
     <Compile Include="DocumentHighlightsService.fs">
       <Link>DocumentHighlights\DocumentHighlightsService.fs</Link>
+    <Compile Include="RenamedSpansTracker.fs">
+      <Link>InlineRename\RenamedSpansTracker.fs</Link>
+    </Compile>
+    <Compile Include="InlineRenameService.fs">
+      <Link>InlineRename\InlineRenameService.fs</Link>
     </Compile>
     <Compile Include="ContentType.fs" />
     <Compile Include="FsiCommandService.fs" />
